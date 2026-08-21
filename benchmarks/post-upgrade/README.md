@@ -41,4 +41,4 @@ than controlled synthetic benchmark results.
 
 ## Evidence
 
-![Post-upgrade Task Manager memory measurement](hp-250-g8-16gb-post-upgrade-task-manager.png)
+![Post-upgrade Task Manager memory measurement](./images/hp-250-g8-16gb-post-upgrade-task-manager.png)
